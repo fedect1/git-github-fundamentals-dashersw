@@ -1,0 +1,5 @@
+22/06/2023 Introduction to Github
+As an introductory class to Git and GitHub we gave the differences between Git and SVN. As far as I could interpret it, they are both management control systems. The main difference is that Git allows you to work locally, while SVN (Subversion) works centrally. 
+Git: Git uses a distributed architecture, which means that each developer has a complete copy of the repository, including the complete change history. This makes it possible to work independently, make changes and merge them later. With respect to branch creation and merging, Git's algorithm is more efficient and has fewer errors to execute compared to SVN, which is a more manual process.
+Subversion: SVN uses a centralised architecture, where there is a central repository that stores all files and changes. Developers have local copies of the files, but must communicate with the central repository to perform operations such as commits and updates.
+While the theory class was interesting, I'm one of those people who learns by doing. I think to better understand the concepts, I will need some practice time and trial and error. 
